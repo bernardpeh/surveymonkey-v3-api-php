@@ -1,9 +1,9 @@
 {
-    "name": "ghassani/surveymonkey-v3-api-php",
+    "name": "bpeh/surveymonkey-v3-api-php",
     "authors": [
         {
-            "name": "Gassan Idriss",
-            "email": "ghassani@gmail.com"
+            "name": "Bernard Peh",
+            "email": "bpeh777@gmail.com"
         }
     ],
     "license": "GPL-3.0",
